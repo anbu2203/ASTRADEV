@@ -16,7 +16,7 @@ CUSTOM DEVBOARD guide-recommended components such as decoupling capacitors, pull
 Net labels and reference designators were standardized for clarity
 Electrical Rule Check (ERC) was performed to ensure there were no schematic errors
 The schematic was finalized and locked before PCB layout
-
+![SCREENSHOT (62)](https://github.com/anbu2203/ASTRADEV/blob/main/ASTRADEV-README/Screenshot%20(62).png)
 # PCB Layout and Wiring
 
 - PCB layout was completed using KiCad PCB Editor
