@@ -32,6 +32,7 @@ A GND copper pour was added on both layers for proper grounding
 Thermal reliefs and clearances were adjusted to ensure good solderability
 Via stitching was used where necessary to improve ground connectivity
 Design Rule Check (DRC) was run and all errors were resolved before production
+![SCREENSHOT (59)](https://github.com/anbu2203/ASTRADEV/blob/main/ASTRADEV-README/Screenshot%20(59).png)
 
 # 3D Viewer Verification
 
@@ -49,6 +50,9 @@ A Component Placement List (CPL / Pick-and-Place) file was generated from the PC
 BOM and CPL headers were renamed to match JLCPCB’s accepted format
 Only top-side assembly files were included
 All production files were organized into a single production folder and compressed into a ZIP archive
+![SCREENSHOT (60)](https://github.com/anbu2203/ASTRADEV/blob/main/ASTRADEV-README/Screenshot%20(60).png)
+![SCREENSHOT (61)](https://github.com/anbu2203/ASTRADEV/blob/main/ASTRADEV-README/Screenshot%20(61).png)
+
 
 # JLCPCB Checking and PCBA Preparation
 
@@ -61,6 +65,7 @@ Basic parts were prioritized to reduce cost
 Pin headers and non-essential components were excluded from assembly
 Component orientation and placement were verified using JLCPCB’s online PCBA viewer
 Final checks were completed before submission
+![SCREENSHOT (58)](https://github.com/anbu2203/ASTRADEV/blob/main/ASTRADEV-README/Screenshot%20(58).png)
 
 # Production Status
 
