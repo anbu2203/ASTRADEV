@@ -1,0 +1,17 @@
+Designator,Quantity,Comment,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C4",2,1 uF,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C2,C3,C5,C6,C7,C8,C9,C10,C11,C12,C15",11,0.1 uF,,,,Capacitor_SMD:C_0402_1005Metric,~
+"C13,C14",2,10 uF,,,,Capacitor_SMD:C_0603_1608Metric,~
+"C16,C17",2,33 pF,,,,Capacitor_SMD:C_0402_1005Metric,~
+J1,1,USB_C_Receptacle_USB2.0_14P,,,,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+J2,1,Conn_01x03_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,~
+"J3,J6",2,Conn_01x20_Pin,,,,Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical,~
+"R1,R2",2,27,,,,Resistor_SMD:R_0402_1005Metric,~
+"R3,R4",2,5.1K,,,,Resistor_SMD:R_0402_1005Metric,~
+R5,1,10K,,,,Resistor_SMD:R_0402_1005Metric,~
+"R6,R7",2,1K,,,,Resistor_SMD:R_0402_1005Metric,~
+SW1,1,SW_Push,,,,Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK,~
+U1,1,RP2040,,,,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+U2,1,MCP1700x-330xxTT,,,,Package_TO_SOT_SMD:SOT-23,http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+U3,1,W25Q16JVSS,,,,Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,https://www.winbond.com/hq/support/documentation/levelOne.jsp?__locale=en&DocNo=DA00-W25Q16JV.1
+Y1,1,12 MHz,,,,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,~
